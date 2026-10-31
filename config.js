@@ -13,19 +13,17 @@ const packageInfo = require('./package.json');
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = '𝙲𝚑𝚊𝚝𝙱𝚛𝚒𝚍𝚐𝚎-𝙱𝚘𝚝';
-global.packname = ' ･ﾟ:  𝙲𝚑𝚊𝚝𝙱𝚛𝚒𝚍𝚐𝚎-𝙱𝚘𝚝  :･ﾟ';
+global.nomebot = 'Đ₳Ɽ₭₦Ɇ₮ ฿Ø₮';
+global.packname = ' ･ﾟ:  Đ₳Ɽ₭₦Ɇ₮ ฿Ø₮  :･ﾟ';
 global.author = '';
 global.vs = process.env.BOT_VERSION || packageInfo.version || '';
-global.collab = '𝙲𝚑𝚊𝚝𝙱𝚛𝚒𝚍𝚐𝚎-𝙱𝚘𝚝';
+global.collab = 'Đ₳Ɽ₭₦Ɇ₮ ฿Ø₮';
 global.wm = global.nomebot;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
-  ['393520511748', 'vale1', true], 
-  ['393717542151', 'vale2', true], 
-  ['393532190671', 'vale3', true], 
+  ['393929139611', '𝕯𝖆𝖗𝖐𝕹𝖊𝖙 𝕸𝖆𝖘𝖙⁺³⁹', true], 
 ];
 
 
